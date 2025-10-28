@@ -1,4 +1,4 @@
-Este projeto em Python foi desenvolvido com o objetivo de calcular o IMC (Índice de Massa Corporal) do usuário e fornecer uma recomendação personalizada de treino com base no resultado obtido. O sistema simula um hub interativo, onde o usuário pode escolher entre iniciar o cálculo do IMC ou receber uma sugestão de treino apropriada para sua condição física.
+(focado em back-end)Este projeto em Python foi desenvolvido com o objetivo de calcular o IMC (Índice de Massa Corporal) do usuário e fornecer uma recomendação personalizada de treino com base no resultado obtido. O sistema simula um hub interativo, onde o usuário pode escolher entre iniciar o cálculo do IMC ou receber uma sugestão de treino apropriada para sua condição física.
 
 Esse programa foi criado por Matheus Wolf (M.W) com apoio do ChatGPT na organização estrutural do código, uso de funções, importação entre arquivos e criação do menu interativo.
 
